@@ -1,0 +1,9 @@
+"Qty","Value","Device","Package","Parts","Description","AKIZUKI","DIGIKEY","URL","MOUSER","NOT-COMPONENT","SEEED","SMD-PAD","TH-PAD"
+"8",,"C-SMD-0.1U-1005","C0402","C1, C2, C3, C4, C5, C6, C7, C8","SMD CAPACITOR",,"490-3261-1-ND","https://www.digikey.jp/short/4tjztt",,,"302010024 ","2",
+"1",,"ETB43024B","ETB43024","CON14",,"P-11589","277-6765-ND","https://www.digikey.jp/short/4tjz7d",,,,,
+"1",,"PH-1X2SG","PH-1X2SG","X1",,"C-08593",,"https://www.digikey.jp/short/4tjzp8",,,"320020016",,"2"
+"12",,"S3B-XH-A","S3B-XH-A(LF)(SN)","CON2, CON3, CON4, CON5, CON6, CON7, CON8, CON9, CON10, CON11, CON12, CON13",,,"455-2250-ND","https://www.digikey.jp/short/4tjz7f",,,,,
+"1",,"S4B-XH-A","S4B-XH-A(LF)(SN)","CON1",,,"455-2243-ND","https://www.digikey.jp/short/4tjz7p",,,,,
+"32","G6S-2-5V","G6S-2-5V","G6S-2","RL1, RL2, RL3, RL4, RL5, RL6, RL7, RL8, RL9, RL10, RL11, RL12, RL13, RL14, RL15, RL16, RL17, RL18, RL19, RL20, RL21, RL22, RL23, RL24, RL25, RL26, RL27, RL28, RL29, RL30, RL31, RL32",,,"Z2615-ND",,,,,,
+"4","MCP23008T/SS","MCP23008T/SS","SOT65P720X530-20N","IC1, IC2, IC3, IC4",,,"MCP23008T-E/SSCT-ND","https://www.digikey.jp/short/4tjzcd","579-MCP23008T-E/SS",,,,
+"4","TBD62083AFNG","TBD62083AFNG","SOT65P640X440-18N","IC5, IC6, IC7, IC8",,"I-10637","TBD62083AFNGELCT-ND","https://www.digikey.jp/short/4tjpfc",,,,,
